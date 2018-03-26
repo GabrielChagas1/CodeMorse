@@ -1,0 +1,9 @@
+c:\users\casa\documents\visual studio 2015\Projects\CódigoMorse\CódigoMorse\bin\Debug\CódigoMorse.exe.config
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\bin\Debug\CódigoMorse.exe
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\bin\Debug\CódigoMorse.pdb
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\obj\Debug\CódigoMorse.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\obj\Debug\CódigoMorse.CódigoMorse.resources
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\obj\Debug\CódigoMorse.Properties.Resources.resources
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\obj\Debug\CódigoMorse.csproj.GenerateResource.Cache
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\obj\Debug\CódigoMorse.exe
+C:\Users\Casa\Documents\Visual Studio 2015\Projects\CódigoMorse\CódigoMorse\obj\Debug\CódigoMorse.pdb
